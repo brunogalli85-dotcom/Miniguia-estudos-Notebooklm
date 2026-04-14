@@ -5,10 +5,10 @@ Objetivo:
 Criar um segundo cérebro baseado nos ensinamentos de Edward de Bono, e seus principais conceitos e métodos práticos com objetivo de melhorar/aumentar a criatividade.
 
 Fontes:
-https://www.debono.com/serious-creativity-article
-https://www.debonogroup.com/services/core-programs/lateral-thinking/
-https://strategiesforinfluence.com/edward-de-bono-lateral-thinking/
-https://donnapace.com/wp-content/uploads/2014/05/Edward-and-the-Brain1.pdf
+1. https://www.debono.com/serious-creativity-article
+2. https://www.debonogroup.com/services/core-programs/lateral-thinking/
+3. https://strategiesforinfluence.com/edward-de-bono-lateral-thinking/
+4. https://donnapace.com/wp-content/uploads/2014/05/Edward-and-the-Brain1.pdf
 
 Testes de Prompts:
 
